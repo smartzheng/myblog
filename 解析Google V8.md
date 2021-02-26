@@ -1,6 +1,6 @@
 +++
 
-title= "解析浏览器原理"
+title= "解析Google V8"
 date= "2020-11-20"
 categories= [ "web前端" ]
 tags= [ "浏览器" ]
